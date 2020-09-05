@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/lab_trees.dir/binarytree.cpp.o CMakeFiles/lab_trees.dir/binarytree_given.cpp.o CMakeFiles/lab_trees.dir/coloredout.cpp.o CMakeFiles/lab_trees.dir/main.cpp.o  -o lab_trees.exe -Wl,--out-implib,liblab_trees.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,86 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_trees/binarytree.cpp
+iostream
+-
+binarytree.h
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_trees/binarytree.h
+
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_trees/binarytree.h
+iostream
+-
+string
+-
+vector
+-
+sstream
+-
+random.h
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_trees/random.h
+binarytree_given.cpp
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_trees/binarytree_given.cpp
+binarytree.cpp
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_trees/binarytree.cpp
+
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_trees/binarytree_given.cpp
+printtree.h
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_trees/printtree.h
+
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_trees/coloredout.cpp
+coloredout.h
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_trees/coloredout.h
+
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_trees/coloredout.h
+sys/wait.h
+-
+errno.h
+-
+unistd.h
+-
+stdint.h
+-
+string
+-
+sstream
+-
+iostream
+-
+fstream
+-
+
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_trees/main.cpp
+algorithm
+-
+iostream
+-
+binarytree.h
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_trees/binarytree.h
+coloredout.h
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_trees/coloredout.h
+random.h
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_trees/random.h
+
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_trees/printtree.h
+algorithm
+-
+iostream
+-
+sstream
+-
+string
+-
+
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_trees/random.h
+stdint.h
+-
+sys/time.h
+-
+time.h
+-
+
