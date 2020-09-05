@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_quacks/exercises.h
+
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_quacks/main.cpp
+unistd.h
+-
+iostream
+-
+queue
+-
+sstream
+-
+stack
+-
+string
+-
+quackfun.h
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_quacks/quackfun.h
+exercises.h
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_quacks/exercises.h
+
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_quacks/quackfun.cpp
+
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_quacks/quackfun.h
+stack
+-
+queue
+-
+quackfun.cpp
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_quacks/quackfun.cpp
+

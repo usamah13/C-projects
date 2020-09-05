@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/lab_quacks.dir/exercises.cpp.o CMakeFiles/lab_quacks.dir/main.cpp.o CMakeFiles/lab_quacks.dir/quackfun.cpp.o  -o lab_quacks.exe -Wl,--out-implib,liblab_quacks.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
