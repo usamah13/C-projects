@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_intro/cs221util/HSLAPixel.h
+
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_intro/cs221util/PNG.h
+string
+-
+vector
+-
+HSLAPixel.h
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_intro/cs221util/HSLAPixel.h
+
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_intro/lab_intro.cpp
+iostream
+-
+cmath
+-
+cstdlib
+-
+cs221util/PNG.h
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_intro/cs221util/PNG.h
+cs221util/HSLAPixel.h
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_intro/cs221util/HSLAPixel.h
+lab_intro.h
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_intro/lab_intro.h
+
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_intro/lab_intro.h
+cs221util/PNG.h
+/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_intro/cs221util/PNG.h
+

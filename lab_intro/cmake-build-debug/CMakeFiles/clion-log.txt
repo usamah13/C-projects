@@ -1,0 +1,4 @@
+C:\Users\gunda\.CLion2018.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_intro"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/gunda/Desktop/CPSC 221/lab_intro/cmake-build-debug
